@@ -1,4 +1,13 @@
 ﻿Nome : Henrique Erzinger Dousseau                                                           Turma B
 
 
-1. “Como jornalista, eu quero poder identificar se o número de admissões em estabelecimentos foi maior ou menor após o início das vacinações." 2. “Como jornalista, eu gostaria de saber se o número de desligamentos em estabelecimentos foi maior ou menor após a entrada da fase vermelha/roxa” 3. “Como jornalista, eu quero poder saber qual foi o tipo de estabelecimento que possui o maior número de desligamentos durante o período da pandemia” 4.”Como jornalista, eu quero poder identificar qual tipo de estabelecimento tem a maior admissão de trabalhador com deficiência.” 5. “Como jornalista, eu quero poder identificar a quantidade que foram desligadas devida a justa causa.” 6. “Como jornalista, eu quero poder identificar qual raça teve o maior número de admissões.” 7 “ Como jornalista, eu quero poder identificar qual a diferença salarial entre os gêneros dentro das suas áreas.” 8. “Como jornalista, eu quero poder identificar em média a idade dos trabalhadores que são  desligados por aposentadoria.” 9.“Como jornalista, eu quero poder identificar a média de admissões por reintegração.” 10. “Como jornalista, eu quero poder identificar a média de funcionários graduados que estão trabalhando fora da sua área de formação.”
+1. “Como jornalista, eu quero poder identificar se o número de admissões em estabelecimentos foi maior ou menor após o início das vacinações.” 
+2. “Como jornalista, eu gostaria de saber se o número de desligamentos em estabelecimentos foi maior ou menor após a entrada da fase vermelha/roxa.” 
+3. “Como jornalista, eu quero poder saber qual foi o tipo de estabelecimento que possui o maior número de desligamentos durante o período da pandemia.” 
+4. “Como jornalista, eu quero poder identificar qual tipo de estabelecimento tem a maior admissão de trabalhador com deficiência.” 
+5. “Como jornalista, eu quero poder identificar a quantidade que foram desligadas devida a justa causa.” 
+6. “Como jornalista, eu quero poder identificar qual raça teve o maior número de admissões.” 
+7. “Como jornalista, eu quero poder identificar qual a diferença salarial entre os gêneros dentro das suas áreas.” 
+8. “Como jornalista, eu quero poder identificar em média a idade dos trabalhadores que são  desligados por aposentadoria.” 
+9. “Como jornalista, eu quero poder identificar a média de admissões por reintegração.” 
+10. “Como jornalista, eu quero poder identificar a média de funcionários graduados que estão trabalhando fora da sua área de formação.”
